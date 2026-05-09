@@ -58,5 +58,5 @@ AIエージェントの「修正が無視される問題」は、セッション
 - Windows 11
 - OpenAI Codex v0.0128
 - Visual Studio Code 1.109.5
-[[20260-05-09-unity-ai-making]]
+[[2026-05-09-unity-ai-making]]
 
